@@ -1,5 +1,5 @@
 - 👋 Hi, I’m SUNSEEKER
-- 👀 I’m interested in playing videogames and listening to kanye west
+- 👀 I’m interested in playing videogames and listening to cool music
 - 📖 I’m currently studying web programming
 
 <!---
